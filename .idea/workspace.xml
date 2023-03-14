@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd86915-4e91-451c-961d-be15af0518e4" name="Changes" comment="" />
+    <list default="true" id="cdd86915-4e91-451c-961d-be15af0518e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/CityInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/CityInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Hobby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Hobby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/RenameMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/RenameMe.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mzwvh8N2o2rZDKEmAZ41cBk8KR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,9 +34,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/markgonzalesnielsen/Documents/GitHub/CA-1.01/src/main/java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,8 +56,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678783952819</updated>
+      <workItem from="1678787524914" duration="965000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
